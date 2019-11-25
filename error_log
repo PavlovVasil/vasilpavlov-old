@@ -1,0 +1,3 @@
+[11-Mar-2017 13:48:09 Europe/Sofia] PHP Parse error:  syntax error, unexpected '" + "' (T_CONSTANT_ENCAPSED_STRING) in /home/vasinqmo/public_html/index.php on line 252
+[11-Mar-2017 13:48:30 Europe/Sofia] PHP Parse error:  syntax error, unexpected '" + "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/vasinqmo/public_html/index.php on line 252
+[11-Mar-2017 13:50:13 Europe/Sofia] PHP Parse error:  syntax error, unexpected '" + "' (T_CONSTANT_ENCAPSED_STRING) in /home/vasinqmo/public_html/index.php on line 252

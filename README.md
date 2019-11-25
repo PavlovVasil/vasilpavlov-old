@@ -4,7 +4,7 @@ This is my current website. I made it 3 years ago as a project on FreeCodeCamp. 
 
 ## How to open
 
-Use your browser of choice to open index.html in the root directory.
+Please note you would need a php server (like WAMP/LAMP/XAMP) in order to run index.php.
 
 ## On the web
 
